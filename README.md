@@ -50,6 +50,6 @@ Note: This project requires the Udacity open source simulator : [Udacity term 2 
     vx   | 0.4219 
     vy   | 0.4937 
     
-  ![Result visualization] (https://github.com/askmuhsin/extended-kalman-flter/blob/master/images/visualization1.gif)
+  ![Result visualization](https://github.com/askmuhsin/extended-kalman-flter/blob/master/images/visualization1.gif)
 
   
