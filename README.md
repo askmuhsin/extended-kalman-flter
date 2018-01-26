@@ -33,20 +33,22 @@ Note: This project requires the Udacity open source simulator : [Udacity term 2 
   ## Result
   The make file runs without any errors.
   The RMSE for dataset 1 is as follows :
-  | Input |   MSE   |
-  | ----- | ------- |
-  |  px   | 0.0974  |
-  |  py   | 0.0855  |
-  |  vx   | 0.4517  |
-  |  vy   | 0.4404  |
+  
+  Input |   MSE  
+  ----- | -------
+   px   | 0.0974 
+   py   | 0.0855 
+   vx   | 0.4517 
+   vy   | 0.4404 
   
   The RMSE for dataset 2 is as follows :
-  | Input |   MSE   |
-  | ----- | ------- |
-  |  px   | 0.0726  |
-  |  py   | 0.0965  |
-  |  vx   | 0.4219  |
-  |  vy   | 0.4937  |
+  
+   Input |   MSE  
+   ----- | -------
+    px   | 0.0726 
+    py   | 0.0965 
+    vx   | 0.4219 
+    vy   | 0.4937 
     
   ![Result visualization] ()
 
